@@ -1,0 +1,17 @@
+
+/*Плагин обратного звонка*/
+.section-cache .widget-table .actions{width: auto;}
+.section-cache .list-option span{display: inline-block;width: 240px;}
+.section-cache .list-option li, .section-cache .fields-calback li{margin: 0 0 10px 0;}
+.section-cache .textarea-text{position: relative;top: -100px;}
+.section-cache .property-order-container h2{margin: 0 0 5px 0;}
+.section-cache .fields-calback span{display: inline-block;width: 100px;}
+.section-cache .fields-calback li input[type="text"],
+.section-cache .fields-calback li textarea{width: 250px;}
+.section-cache .fields-calback li textarea{height: 150px;}
+.section-cache .fields-calback li .textarea-text{top: -145px;}
+.section-cache .list-option li textarea{width: 350px;height: 100px;}
+.section-cache .base-setting .list-option .textarea-text{top: -60px;}
+.section-cache .base-setting .list-option textarea{resize: none;}
+.admin-wrapper .clear-cache-btn span{display:inline-block;padding:4px 10px 4px 27px;background:url(../../../mg-admin/design/images/icons/delete-icon.png) 6px 5px no-repeat;}
+ 

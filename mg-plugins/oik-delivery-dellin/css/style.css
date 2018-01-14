@@ -1,0 +1,100 @@
+/*Настройки плагина*/
+.section-oik-delivery-dellin .list-option li {
+    margin: 0 0 10px 0;
+    font-size: 14px;
+}
+
+.section-oik-delivery-dellin .list-option li select{
+    margin: 0 10px 0 0;
+}
+
+.section-oik-delivery-dellin .list-option li.section {
+    font-weight: bold;
+    margin: 0 0 15px 0;
+}
+
+.section-oik-delivery-dellin .widget-table-body {
+    padding: 0;
+    background: #fff;
+}
+
+.section-oik-delivery-dellin .link-fail {
+    text-align: center;
+    margin: 15px 0;
+}
+
+.section-oik-delivery-dellin .oik-delivery-dellin input#oik-dellin-delivery-city{
+  width: 400px; 
+}
+
+.section-oik-delivery-dellin .oik-delivery-dellin div.popupList{
+  width: 400px;
+  position: absolute;
+}
+
+.oik-delivery-dellin  .oik-delivery-dellin input#oik-dellin-delivery-city{
+  width: 200px;
+  margin: 5px 0;
+}
+
+.oik-delivery-dellin .deliveryInfo{
+  text-align: right;
+}
+
+/*Выод при редактирвании заказа*/
+.oik-delivery-plugin-admin{
+  text-align: right;  
+}
+
+.oik-delivery-plugin-admin input#oik-dellin-delivery-city{
+  width: 256px;
+  margin-top: 5px;
+}
+
+.oik-delivery-plugin-admin a{
+  font-size: 12px;
+}
+
+/*Выпадающий список городов*/
+.oik-delivery-dellin .ui-helper-hidden-accessible{
+  display:none;
+}
+
+.oik-delivery-dellin .ui-autocomplete li a:hover{
+  background: #F0F0F0;
+}
+
+.oik-delivery-dellin .ui-autocomplete li a{
+  display: block;
+  padding: 8px 5px;
+  cursor: pointer;
+  border-radius: 0;
+  font-size: 14px;
+  line-height: 14px;
+}
+
+.oik-delivery-dellin .ui-autocomplete li{
+  text-align: left;
+  margin: 0;
+}
+
+.oik-delivery-dellin .ui-autocomplete li + li{
+  border-top: 1px solid #F0F0F0;
+}
+
+.oik-delivery-dellin ul.ui-autocomplete{
+  box-shadow: 0 2px 5px 2px rgba(0, 0, 0, 0.2);
+  border: 1px solid #CCC;
+  max-height: 250px;
+  overflow: auto;
+  padding: 0;
+  background: #fff;
+}
+
+.oik-delivery-dellin ul.ui-autocomplete li{
+  padding: 3px 0;
+}
+
+.oik-delivery-dellin ul.ui-autocomplete li a{
+  cursor: pointer;
+}

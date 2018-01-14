@@ -1,0 +1,160 @@
+06.03.2017 23:51:53 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+06.03.2017 23:51:55 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+06.03.2017 23:52:03 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+06.03.2017 23:52:05 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+06.03.2017 23:52:05 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+06.03.2017 23:52:24 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+06.03.2017 23:52:27 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+06.03.2017 23:52:27 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+06.03.2017 23:52:58 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+06.03.2017 23:53:08 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+06.03.2017 23:53:33 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+06.03.2017 23:55:26 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+06.03.2017 23:55:34 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+06.03.2017 23:55:43 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+06.03.2017 23:55:45 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+06.03.2017 23:55:45 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+

@@ -1,0 +1,21 @@
+.widget-table-body .widget-table-body .widget-table-action,
+.widget-table-body .widget-table-body{
+    padding: 0;
+}
+.block-discount input[type="number"]{
+    width: 50px;
+}  
+.block-discount{
+	margin: 0 0 10px 10px;
+}
+.important-message{
+    margin: 20px 0 20px 10px;
+}
+.yellow-string{
+    display: block!important;
+    color: #92862e;
+    border: 1px solid #e1d260;
+    background: #fff6ae;
+    padding: 10px;
+    margin: 0 0 10px 0;
+}

@@ -1,0 +1,550 @@
+07.03.2017 00:02:11 =>Array
+(
+    [result] => Array
+        (
+            [status] => 1
+            [paymentTable] => 
+            [summDelivery] => 0
+        )
+
+    [args] => Array
+        (
+            [0] => 8
+        )
+
+)
+
+07.03.2017 00:02:13 =>Array
+(
+    [result] => Array
+        (
+            [status] => 1
+            [paymentTable] => 
+            [summDelivery] => 0
+        )
+
+    [args] => Array
+        (
+            [0] => 8
+        )
+
+)
+
+07.03.2017 00:04:37 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+07.03.2017 00:04:39 =>Array
+(
+    [result] => Array
+        (
+            [status] => 1
+            [paymentTable] => 
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=1>WebMoney</label>
+          <span class="icon-payment-1"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=2>Яндекс.Деньги</label>
+          <span class="icon-payment-2"></span>
+          <span class="rate-payment">(Комиссия 0.5%)</span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=13>На карту сбербанка</label>
+          <span class="icon-payment-13"></span>
+          <span class="rate-payment"></span>
+        </li>
+            [summDelivery] => 790.00 руб.
+        )
+
+    [args] => Array
+        (
+            [0] => 5
+        )
+
+)
+
+07.03.2017 00:04:49 =>Array
+(
+    [result] => Array
+        (
+            [status] => 1
+            [paymentTable] => 
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=1>WebMoney</label>
+          <span class="icon-payment-1"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=2>Яндекс.Деньги</label>
+          <span class="icon-payment-2"></span>
+          <span class="rate-payment">(Комиссия 0.5%)</span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=12>Наличные(самовывоз)</label>
+          <span class="icon-payment-12"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=13>На карту сбербанка</label>
+          <span class="icon-payment-13"></span>
+          <span class="rate-payment"></span>
+        </li>
+            [summDelivery] => 0
+        )
+
+    [args] => Array
+        (
+            [0] => 3
+        )
+
+)
+
+07.03.2017 00:04:49 =>Array
+(
+    [result] => Array
+        (
+            [status] => 1
+            [paymentTable] => 
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=1>WebMoney</label>
+          <span class="icon-payment-1"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=2>Яндекс.Деньги</label>
+          <span class="icon-payment-2"></span>
+          <span class="rate-payment">(Комиссия 0.5%)</span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=12>Наличные(самовывоз)</label>
+          <span class="icon-payment-12"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=13>На карту сбербанка</label>
+          <span class="icon-payment-13"></span>
+          <span class="rate-payment"></span>
+        </li>
+            [summDelivery] => 0
+        )
+
+    [args] => Array
+        (
+            [0] => 3
+        )
+
+)
+
+07.03.2017 00:04:53 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+07.03.2017 00:04:54 =>Array
+(
+    [result] => Array
+        (
+            [status] => 1
+            [paymentTable] => 
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=1>WebMoney</label>
+          <span class="icon-payment-1"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=2>Яндекс.Деньги</label>
+          <span class="icon-payment-2"></span>
+          <span class="rate-payment">(Комиссия 0.5%)</span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=13>На карту сбербанка</label>
+          <span class="icon-payment-13"></span>
+          <span class="rate-payment"></span>
+        </li>
+            [summDelivery] => 790.00 руб.
+        )
+
+    [args] => Array
+        (
+            [0] => 5
+        )
+
+)
+
+07.03.2017 00:04:56 =>Array
+(
+    [result] => Array
+        (
+            [status] => 1
+            [paymentTable] => 
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=1>WebMoney</label>
+          <span class="icon-payment-1"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=2>Яндекс.Деньги</label>
+          <span class="icon-payment-2"></span>
+          <span class="rate-payment">(Комиссия 0.5%)</span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=4>Наличные (курьеру)</label>
+          <span class="icon-payment-4"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=13>На карту сбербанка</label>
+          <span class="icon-payment-13"></span>
+          <span class="rate-payment"></span>
+        </li>
+            [summDelivery] => 350 руб.
+        )
+
+    [args] => Array
+        (
+            [0] => 1
+        )
+
+)
+
+07.03.2017 00:04:57 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+07.03.2017 00:04:59 =>Array
+(
+    [result] => Array
+        (
+            [status] => 1
+            [paymentTable] => 
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=1>WebMoney</label>
+          <span class="icon-payment-1"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=2>Яндекс.Деньги</label>
+          <span class="icon-payment-2"></span>
+          <span class="rate-payment">(Комиссия 0.5%)</span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=13>На карту сбербанка</label>
+          <span class="icon-payment-13"></span>
+          <span class="rate-payment"></span>
+        </li>
+            [summDelivery] => 790.00 руб.
+        )
+
+    [args] => Array
+        (
+            [0] => 5
+        )
+
+)
+
+07.03.2017 00:05:01 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+07.03.2017 00:05:02 =>Array
+(
+    [result] => Array
+        (
+            [status] => 1
+            [paymentTable] => 
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=1>WebMoney</label>
+          <span class="icon-payment-1"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=2>Яндекс.Деньги</label>
+          <span class="icon-payment-2"></span>
+          <span class="rate-payment">(Комиссия 0.5%)</span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=13>На карту сбербанка</label>
+          <span class="icon-payment-13"></span>
+          <span class="rate-payment"></span>
+        </li>
+            [summDelivery] => 790.00 руб.
+        )
+
+    [args] => Array
+        (
+            [0] => 5
+        )
+
+)
+
+07.03.2017 00:05:19 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+07.03.2017 00:05:21 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+07.03.2017 00:05:21 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+07.03.2017 00:05:22 =>Array
+(
+    [result] => Array
+        (
+            [status] => 1
+            [paymentTable] => 
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=1>WebMoney</label>
+          <span class="icon-payment-1"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=2>Яндекс.Деньги</label>
+          <span class="icon-payment-2"></span>
+          <span class="rate-payment">(Комиссия 0.5%)</span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=13>На карту сбербанка</label>
+          <span class="icon-payment-13"></span>
+          <span class="rate-payment"></span>
+        </li>
+            [summDelivery] => 665.00 руб.
+        )
+
+    [args] => Array
+        (
+            [0] => 5
+        )
+
+)
+
+07.03.2017 00:05:23 =>Array
+(
+    [result] => Array
+        (
+            [status] => 1
+            [paymentTable] => 
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=1>WebMoney</label>
+          <span class="icon-payment-1"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=2>Яндекс.Деньги</label>
+          <span class="icon-payment-2"></span>
+          <span class="rate-payment">(Комиссия 0.5%)</span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=13>На карту сбербанка</label>
+          <span class="icon-payment-13"></span>
+          <span class="rate-payment"></span>
+        </li>
+            [summDelivery] => 665.00 руб.
+        )
+
+    [args] => Array
+        (
+            [0] => 5
+        )
+
+)
+
+07.03.2017 00:08:36 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 228
+)
+
+07.03.2017 00:08:38 =>Array
+(
+    [result] => Array
+        (
+            [status] => 1
+            [paymentTable] => 
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=1>WebMoney</label>
+          <span class="icon-payment-1"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=2>Яндекс.Деньги</label>
+          <span class="icon-payment-2"></span>
+          <span class="rate-payment">(Комиссия 0.5%)</span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=13>На карту сбербанка</label>
+          <span class="icon-payment-13"></span>
+          <span class="rate-payment"></span>
+        </li>
+            [summDelivery] => 665.00 руб.
+        )
+
+    [args] => Array
+        (
+            [0] => 5
+        )
+
+)
+
+07.03.2017 00:08:47 =>Array
+(
+    [result] => Array
+        (
+            [status] => 1
+            [paymentTable] => 
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=1>WebMoney</label>
+          <span class="icon-payment-1"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=2>Яндекс.Деньги</label>
+          <span class="icon-payment-2"></span>
+          <span class="rate-payment">(Комиссия 0.5%)</span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=4>Наличные (курьеру)</label>
+          <span class="icon-payment-4"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=13>На карту сбербанка</label>
+          <span class="icon-payment-13"></span>
+          <span class="rate-payment"></span>
+        </li>
+            [summDelivery] => 350 руб.
+        )
+
+    [args] => Array
+        (
+            [0] => 1
+        )
+
+)
+
+07.03.2017 00:08:52 =>Array
+(
+    [result] => Array
+        (
+            [status] => 1
+            [paymentTable] => 
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=1>WebMoney</label>
+          <span class="icon-payment-1"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=2>Яндекс.Деньги</label>
+          <span class="icon-payment-2"></span>
+          <span class="rate-payment">(Комиссия 0.5%)</span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=4>Наличные (курьеру)</label>
+          <span class="icon-payment-4"></span>
+          <span class="rate-payment"></span>
+        </li>
+        <li class="noneactive">
+          <label>
+          <input type="radio" name="payment" rel value=13>На карту сбербанка</label>
+          <span class="icon-payment-13"></span>
+          <span class="rate-payment"></span>
+        </li>
+            [summDelivery] => 150 руб.
+        )
+
+    [args] => Array
+        (
+            [0] => 7
+        )
+
+)
+

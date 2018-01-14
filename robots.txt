@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /install/
+Disallow: /mg-admin/
+Disallow: /mg-pages/
+Disallow: /mg-admin 
+Disallow: /personal
+Disallow: /enter
+Disallow: /forgotpass
+Disallow: /registration
+Disallow: /compare
+Disallow: /order
+Host: https://yuran.su
+
+Sitemap: https://yuran.su/sitemap.xml

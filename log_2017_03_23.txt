@@ -1,0 +1,60 @@
+23.03.2017 23:23:21 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 1764
+)
+
+23.03.2017 23:24:51 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 1764
+)
+
+23.03.2017 23:25:06 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 1764
+)
+
+23.03.2017 23:25:08 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 1764
+)
+
+23.03.2017 23:25:09 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 1764
+)
+
+23.03.2017 23:26:15 =>Array
+(
+    [weight] => 50
+    [volume] => 0.0006
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 1764
+)
+

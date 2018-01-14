@@ -1,0 +1,21 @@
+.header .bottom-bar,
+.brands-title:before, .mg-recent-products .title:before, .m-p-products .title a:before{
+    background: #62902d;
+}
+
+.wrapper .filter-block .title,
+.main-page:before,
+.footer-bottom,
+.bottom-bar .top-menu-list li:hover a,
+.bottom-bar .main-menu .title,
+.top-menu-toggle,.search-button,
+.product-info, .addToCart,
+.ui-slider-handle, .ui-slider-range, .filter-btn, [name="feedback"] .default-btn, .save-btn, .register-btn, .enter-btn, .default-btn{
+    background: #6fb122 !important;
+}
+
+.bottom-bar .main-menu .title:hover, .filter-btn:hover, .product-info:hover, 
+.addToCart:hover, .feedback-btn:hover, .search-button:hover, .save-btn:hover, 
+.enter-btn:hover, .default-btn:hover{
+    background: #6fb31f !important;
+}

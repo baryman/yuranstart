@@ -1,0 +1,30 @@
+09.04.2017 09:21:02 =>Array
+(
+    [weight] => 150
+    [volume] => 0.0012
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 792
+)
+
+09.04.2017 09:21:12 =>Array
+(
+    [weight] => 150
+    [volume] => 0.0012
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 792
+)
+
+09.04.2017 09:22:34 =>Array
+(
+    [weight] => 150
+    [volume] => 0.0012
+    [width] => 0.2
+    [length] => 0.1
+    [depth] => 0.3
+    [price] => 792
+)
+

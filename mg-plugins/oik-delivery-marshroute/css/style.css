@@ -1,0 +1,39 @@
+/*Настройки плагина*/
+.section-oik-delivery-marshroute .list-option li {
+    margin: 0 0 10px 0;
+    font-size: 14px;
+}
+
+.section-oik-delivery-marshroute .list-option li select{
+    margin: 0 10px 0 0;
+}
+
+.section-oik-delivery-marshroute .list-option li.section {
+    font-weight: bold;
+    margin: 0 0 15px 0;
+}
+
+.section-oik-delivery-marshroute .widget-table-body {
+    padding: 0;
+    background: #fff;
+}
+
+.section-oik-delivery-marshroute .widget-table-action .base-settings .list-option .custom-text{
+    width:100px;
+}
+
+.section-oik-delivery-marshroute .link-fail {
+    text-align: center;
+    margin: 15px 0;
+}
+
+.deliveryInfo .oik-marshroute-apply-city, .deliveryInfo .oik-marshroute-clear-field{
+  background: #4bbe3f;
+  border: medium none;
+  color: #fff;
+  display: inline-block;
+  margin-top: 5px;
+  outline: medium none;
+  padding: 2px 5px;
+  text-decoration: none;
+}

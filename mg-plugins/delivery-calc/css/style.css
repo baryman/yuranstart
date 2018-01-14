@@ -1,0 +1,49 @@
+.section-deliverycalc {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+
+.section-deliverycalc #select-caption{
+    float: left;
+}
+
+.delivery-calc-plugin{
+    margin-top: 5px;
+}
+
+.delivery-plugin-title{
+    display: inline-block;
+    text-align: right;
+    float:left;
+}
+
+#delivery-plugin-title-from{
+    height: 30px;
+}
+
+.delivery-calc-response{
+    margin-top: 7px;
+}
+
+.delivery-plugin-form .delivery-to{
+    /*height: 28px;*/
+}
+
+.delivery-plugin-form #start{
+    float:left;
+    margin-top: 7px;
+    width:100px;
+    height: 20px;
+}
+
+.delivery-plugin-form{
+    display: inline-block;
+}
+
+.delivery-calc-plugin select{
+    width:150px;
+}
+
+
+  

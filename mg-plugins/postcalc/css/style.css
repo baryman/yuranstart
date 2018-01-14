@@ -1,0 +1,133 @@
+.base-settings .list-option li span, .section-postcalc .custom-text{display: inline-block;width:366px;}
+.base-settings .list-option li{margin: 0 0 10px 0;}
+.base-settings .list-option li input, .base-settings .list-option li select{margin: 0;}
+
+#postcalcInput{
+	margin-top: 2px;
+}
+#indexTo{
+	text-align: center;
+	padding: 0;
+	width: 165px;
+}
+#postcalcSend{
+	margin-top: 2px;
+}
+#postcalcShow{
+	width: 800px;
+	border: 1px solid #E8E8E8;
+	padding: 10px;
+	box-shadow: none;
+	background: #fff;
+	position: fixed;
+	top: 25px;
+	left: 0;
+	right: 0;
+	margin: 0 auto;
+	z-index: 99999;
+	overflow: auto !important;
+}
+#postcalcScreenBlock{
+	position: fixed;
+	z-index: 120;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	background: rgba(0,0,0,0.6);
+	z-index: 9999;
+}
+#postcalcHeaderDiv{
+	text-align: center;
+}
+#postcalcHeader{
+	
+	font-size: 20px;
+}
+.postcalcResultId{
+	cursor:pointer;
+} 
+#postcalcResult{
+	max-height: calc(100vh - 55px);
+}
+#postcalcIndexError{
+	margin: 0;
+	color: red !important;
+}
+.postcalcInputError{
+	border: 1px solid #F18585 !important;
+	background: #FFDBDD !important;
+	box-shadow: none !important;
+}
+.postcalcButtonLeft{
+	display: none;
+}
+.section-postcalc .base-settings{
+	padding: 12px 10px 13px 10px;
+	border: none;
+}
+.section-postcalc [type="text"]{
+	width: 185px;
+	display: inline-block;
+}
+.section-postcalc .list-option{
+	padding-left: 0;
+}
+.mg-admin-body .add-delivery-info #postcalcSend{
+	margin-bottom: 10px;
+}
+.mg-admin-body .add-delivery-info #indexTo{
+	width:100%;
+}
+
+
+#postcalcShow table {
+	margin-top: 5px;
+	width: 100%;
+	font-size: 14px;
+	text-align: center;
+	border: 1px solid #EEEEEE;
+}
+#postcalcShow th {
+	border: 1px solid #EEEEEE;
+	background-color: #CCCDDA;
+}
+#postcalcShow td {
+	border: 1px solid #EEEEEE;
+}
+#postcalcClose{
+    float:right;
+    cursor:pointer;
+    color: black;
+    font-size: 35px;
+    font-weight: bold;
+    display: inline-block;
+    line-height: 0px;
+    padding: 6px 3px;       
+}
+#postcalcClose:before {
+    content: "×";
+}
+
+
+
+@media (max-width: 820px) {
+	#postcalcShow {
+		width: 100%;
+	}
+}
+@media (max-width: 550px) {
+	#postcalcShow {
+		padding: 2px;
+		top: 5px;
+	}
+	#postcalcResult{
+		max-height: calc(100vh - 15px);
+	}
+	.postcalcButtonLeft{
+		display: table-cell;
+	}
+	.postcalcButtonRight{
+		display: none;	
+	}
+}
